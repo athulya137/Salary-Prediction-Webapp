@@ -6,13 +6,37 @@ This project is a Streamlit-based web app that predicts salaries based on user i
 ## Outputs
 
 ### Salary Prediction Interface
-![Salary Prediction Interface](images\salary_prediction_interface.png)
+<br/>
+<p align="center">
+    <img src="images\salary_prediction_interface.png" alt="Logo" width="700" height="600">
+    
+  </a>
+
+  <p align="center">
 
 ### Country Data Visualization
-![Country Data Visualization](C:\Users\athulya\OneDrive\Pictures\Screenshots\Screenshot (306).png)
+<br/>
+<p align="center">
+    <img src="images\Country_Data_Visualization.png" alt="Logo" width="700" height="500">
+    
+  </a>
+
+  <p align="center">
 
 ### Mean Salary Based on Country
-![Mean Salary Based on Country](C:\Users\athulya\OneDrive\Pictures\Screenshots\Screenshot (307).png)
+<br/>
+<p align="center">
+    <img src="images\Mean_Salary_Based on Country.png" alt="Logo" width="700" height="500">
+    
+  </a>
+
+  <p align="center">
 
 ### Mean Salary Based on Experience
-![Mean Salary Based on Country](C:\Users\athulya\OneDrive\Pictures\Screenshots\Screenshot (307).png)
+<br/>
+<p align="center">
+    <img src="images\Mean Salary Based on Experience.png" alt="Logo" width="700" height="500">
+    
+  </a>
+
+  <p align="center">
